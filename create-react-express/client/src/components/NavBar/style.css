@@ -1,0 +1,23 @@
+.navbar {
+    padding:25px;
+    margin-bottom: 10px;
+    background-color: #413132;
+}
+
+.navbar-dark .navbar-brand {
+    color: #f5eddb;
+    font-size: 35px;
+}
+
+.search {
+    font-size: 25px;
+    color: #dcd5c5;
+    margin: 0px 20px;
+}
+
+.saved {
+    font-size: 25px;
+    color: #dcd5c5;
+    margin: 0px 20px;
+}
+
