@@ -2,12 +2,12 @@ import React from "react";
 import "./style.css";
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-function SearchArea({ children }) {
+function SearchBar({ children }) {
     return (
-        <div className="search-area">
+        <div className="search-bar">
             {children}
         </div>
     );
 }
 
-export default SearchArea;
+export default SearchBar;
